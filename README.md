@@ -4,7 +4,7 @@
 
 - In frontend directory run `docker build -t goals-frontend .`
 
--In backend directory run `docker build -t goals-backend .` 
+- In backend directory run `docker build -t goals-backend .` 
 
 - `docker network create goals`
 
